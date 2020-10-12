@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Rumumba",
+      "body": "This is the my story",
+      "publishedAt": "10-10-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post three",
+      "body": "I enjoy learning",
+      "publishedAt": "10-10-2020"
+    },
+    {
+      "id": "4",
+      "title": "Post four",
+      "body": "I like traveling kigali",
+      "publishedAt": "10-10-2020"
+    },
+    {
+      "title": "Post two",
+      "body": "Life in this world",
+      "publishedAt": "10-10-2020",
+      "id": "8m_62vE"
+    },
+    {
+      "title": "post five",
+      "body": "I love bananaes",
+      "publishedAt": "2020-10-12",
+      "id": "rczLoxb"
+    }
+  ],
+  "users": [
+    {
+      "name": "Jonathan Nshuti",
+      "email": "realsolutions130@gmail.com",
+      "id": "4De-6Jd"
+    },
+    {
+      "name": "self-learner",
+      "email": "biden@gmail.com",
+      "id": "dtv-NJ1"
+    }
+  ]
+}
